@@ -1,0 +1,17 @@
+# Temporary files
+*~
+*#*
+
+# Built artifacts
+*.class
+build/
+
+# Gradle artifacts
+gradle/
+.gradle/
+
+# IDEA
+*.ipr
+*.iml
+*.iws
+.idea/
